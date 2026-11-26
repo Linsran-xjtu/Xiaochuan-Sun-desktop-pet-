@@ -3,6 +3,9 @@
 一个使用 C# / WinForms 开发的 Windows 桌面宠物，配有孙笑川原版动图、照片和语音。支持独立多桌宠、鼠标互动、不同性格、带队巡游，以及多人开会。
 
 A Windows desktop pet built with C# and WinForms, featuring Sun Xiaochuan’s original animations, photos, and voice clips. Includes independently configurable pets, mouse interactions, personalities, group parades, and lively meetings.
+<img width="530" height="1130" alt="sxc2" src="https://github.com/user-attachments/assets/a163f14d-0cad-4ef0-88b1-ff64f8dd0ffc" />
+<img width="2879" height="1526" alt="sxc01" src="https://github.com/user-attachments/assets/d70eaf2d-7be8-4462-badc-acb2b7e1c0b5" />
+<img width="2879" height="1531" alt="sxc3" src="https://github.com/user-attachments/assets/f9e3abfc-bee8-4176-9f78-e9e0ffd2c201" />
 
 ---
 
